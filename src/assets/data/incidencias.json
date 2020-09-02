@@ -1,0 +1,8 @@
+[
+  { "id": 1, "estacion": "es1", "incidencias": "11" },
+  { "id": 2, "estacion": "es2", "incidencias": "12" },
+  { "id": 3, "estacion": "es3", "incidencias": "13" },
+  { "id": 4, "estacion": "es4", "incidencias": "14" },
+  { "id": 5, "estacion": "es5", "incidencias": "15" },
+  { "id": 6, "estacion": "es6", "incidencias": "16" }
+]
